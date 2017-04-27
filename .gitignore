@@ -7,4 +7,4 @@
 !/var/www/html/adminer
 !/var/www/html/adminer/*
 !/var/www/html/modules
-!/var/www/html/modules/ccl_*
+!/var/www/html/modules/ccl_**

@@ -1,0 +1,28 @@
+#marcasAsignadas {
+	width: 15em;
+	padding: 0 0 1em 0;
+	margin-bottom: 1em;
+	color: #333;
+}
+
+#marcasAsignadas ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+#marcasAsignadas li {
+	margin: 0;
+	display: block;
+	padding: 5px 5px 5px 0.5em;
+	text-decoration: none;
+	width: 100%;
+	} html>body #marcasAsignadas li button {
+		width: auto;
+		} #marcasAsignadas li button:hover {
+			border-left: 10px solid #1c64d1;
+			border-right: 10px solid #5ba3e0;
+			background-color: #2586d7;
+			color: #fff;
+		}
