@@ -1,0 +1,2 @@
+01 */5 * * *     root    /usr/bin/rm -rf /var/www/html/masive/* &> /dev/null
+00 00 * * * root /usr/bin/php /usr/local/sbin/ccl_logout_forzado.php &> /dev/null
