@@ -1,0 +1,10 @@
+*
+!/doc
+!/doc/**
+!var
+!/var/www
+!/var/www/html
+!/var/www/html/adminer
+!/var/www/html/adminer/*
+!/var/www/html/modules
+!/var/www/html/modules/ccl_*
