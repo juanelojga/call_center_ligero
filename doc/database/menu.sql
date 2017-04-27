@@ -1,0 +1,11 @@
+INSERT INTO "menu" ("id", "IdParent", "Link", "Name", "Type", "order_no") VALUES ('ccl_ligero',	'',	'',	'Call Center Light',	'',	1001);
+INSERT INTO "menu" ("id", "IdParent", "Link", "Name", "Type", "order_no") VALUES ('ccl_brands',	'ccl_ligero',	'',	'Brands',	'module',	1002);
+INSERT INTO "menu" ("id", "IdParent", "Link", "Name", "Type", "order_no") VALUES ('ccl_campaigns',	'ccl_ligero',	'',	'Campaigns',	'module',	1003);
+INSERT INTO "menu" ("id", "IdParent", "Link", "Name", "Type", "order_no") VALUES ('ccl_agents',	'ccl_ligero',	'',	'Agents',	'module',	1004);
+INSERT INTO "menu" ("id", "IdParent", "Link", "Name", "Type", "order_no") VALUES ('ccl_breaks',	'ccl_ligero',	'',	'Breaks',	'module',	1005);
+INSERT INTO "menu" ("id", "IdParent", "Link", "Name", "Type", "order_no") VALUES ('ccl_supervisors',	'ccl_ligero',	'',	'Supervisors',	'module',	1006);
+INSERT INTO "menu" ("id", "IdParent", "Link", "Name", "Type", "order_no") VALUES ('ccl_reports',	'ccl_ligero',	'',	'Reports',	'module',	1007);
+INSERT INTO "menu" ("id", "IdParent", "Link", "Name", "Type", "order_no") VALUES ('ccl_reports_breaks',	'ccl_reports',	'',	'Breaks Reports',	'module',	1008);
+INSERT INTO "menu" ("id", "IdParent", "Link", "Name", "Type", "order_no") VALUES ('ccl_reports_login_logout',	'ccl_reports',	'',	'Login Logout Report',	'module',	1009);
+INSERT INTO "menu" ("id", "IdParent", "Link", "Name", "Type", "order_no") VALUES ('ccl_agent_monitoring',	'ccl_reports',	'',	'Agent Monitoring',	'module',	1010);
+INSERT INTO "menu" ("id", "IdParent", "Link", "Name", "Type", "order_no") VALUES ('ccl_cdrreport',	'ccl_reports',	'',	'CDR',	'module',	1011);

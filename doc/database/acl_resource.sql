@@ -1,0 +1,10 @@
+INSERT INTO "acl_resource" ("name", "description") VALUES ('ccl_brands', 'Call Center Light Brands');
+INSERT INTO "acl_resource" ("name", "description") VALUES ('ccl_campaigns',  'Call Center Light Campaigns');
+INSERT INTO "acl_resource" ("name", "description") VALUES ('ccl_agents', 'Call Center Light Agents');
+INSERT INTO "acl_resource" ("name", "description") VALUES ('ccl_breaks', 'Call Center Light Breaks');
+INSERT INTO "acl_resource" ("name", "description") VALUES ('ccl_supervisors',  'Call Center Light Supervisors');
+INSERT INTO "acl_resource" ("name", "description") VALUES ('ccl_reports_breaks', 'Report Breaks');
+INSERT INTO "acl_resource" ("name", "description") VALUES ('ccl_reports',  'Call Center Light Reports');
+INSERT INTO "acl_resource" ("name", "description") VALUES ('ccl_reports_login_logout', 'Login Logout Report');
+INSERT INTO "acl_resource" ("name", "description") VALUES ('ccl_agent_monitoring', 'Agent Monitoring');
+INSERT INTO "acl_resource" ("name", "description") VALUES ('ccl_cdrreport',  'CDR Report');

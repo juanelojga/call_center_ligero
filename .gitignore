@@ -8,6 +8,8 @@
 !/var/www/html/adminer/*
 !/var/www/html/modules
 !/var/www/html/modules/ccl_**
+!/var/www/html/lang
+!/var/www/html/lang/es.lang
 !/etc
 !/etc/odbc.ini
 !/etc/odbcinst.ini

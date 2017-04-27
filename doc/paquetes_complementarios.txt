@@ -1,0 +1,6 @@
+Paquetes que se deben instalar
+yum install unixODBC unixODBC-devel libtool-ltdl libtool-ltdl-devel
+yum install mysql-connector-odbc
+
+Comando para verificar:
+odbcinst -q -d
